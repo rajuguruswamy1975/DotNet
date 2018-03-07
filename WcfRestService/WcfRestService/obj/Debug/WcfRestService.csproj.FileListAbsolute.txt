@@ -1,0 +1,7 @@
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\bin\WcfRestService.dll.config
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\bin\WcfRestService.dll
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\bin\WcfRestService.pdb
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\obj\Debug\WcfRestService.csprojResolveAssemblyReference.cache
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\obj\Debug\WcfRestService.csproj.CoreCompileInputs.cache
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\obj\Debug\WcfRestService.dll
+E:\Raju\Study\DotNet\WcfRestService\WcfRestService\obj\Debug\WcfRestService.pdb
